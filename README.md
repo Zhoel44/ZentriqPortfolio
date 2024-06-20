@@ -1,1 +1,1 @@
-# ZeriqPortfolio
+# ZentriqPortfolio
